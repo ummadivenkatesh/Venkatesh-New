@@ -1,0 +1,2 @@
+aws cli needs python
+use pip to install and work with CLI
